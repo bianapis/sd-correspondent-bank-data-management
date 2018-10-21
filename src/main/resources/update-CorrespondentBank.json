@@ -1,0 +1,13 @@
+{
+  "contactAddresses" : "132C Social Street Hudson NewYork United States",
+  "nostroMirrorAccountReference" : "NMAR3032",
+  "correspondentBankAgreement" : "Agreement Content",
+  "correspondentBankDirectoryEntryReference" : "CBDF3940",
+  "correspondentBankReference" : "CBRE0423",
+  "clearingSortCodes" : "BIC35/BIC40",
+  "bankHierarchy" : "Associates/VicePresident/ManagingDirector",
+  "holidayTimeZoneSchedule" : "GMT-4 NY USA",
+  "vostroAccountReference" : "VARE2000",
+  "corresponentBankAgreementReference" : "BAR72364234",
+  "legalEntityIdentifiers" : "ISO17442"
+}
